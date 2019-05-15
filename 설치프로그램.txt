@@ -1,0 +1,17 @@
+<개발환경>
+- JDK 1.8
+- EditPlus4
+- gitBash
+Eclipse 또는 STS
+Java EE
+Spring Framework
+MyBatis
+DB Server
+HEIDI
+
+
+
+- Chrome
+- 카카오톡
+- 공인인증서
+- 우리은행 인터넷뱅킹 보안프로그램
