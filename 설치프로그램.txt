@@ -1,8 +1,10 @@
-<°³¹ßÈ¯°æ>
+#githubê³µë¶€ ì¤‘ìž…ë‹ˆë‹¤.
+
+<ê°œë°œí™˜ê²½>
 - JDK 1.8
 - EditPlus4
 - gitBash
-Eclipse ¶Ç´Â STS
+Eclipse ë˜ëŠ” STS
 Java EE
 Spring Framework
 MyBatis
@@ -12,9 +14,6 @@ HEIDI
 
 
 - Chrome
-- Ä«Ä«¿ÀÅå
-- °øÀÎÀÎÁõ¼­
-- ¿ì¸®ÀºÇà ÀÎÅÍ³Ý¹ðÅ· º¸¾ÈÇÁ·Î±×·¥
-
-# ÇÑ ÁÙ Ãß°¡
-# µÎ ÁÙ Ãß°¡
+- ì¹´ì¹´ì˜¤í†¡
+- ê³µì¸ì¸ì¦ì„œ
+- ìš°ë¦¬ì€í–‰ ì¸í„°ë„·ë±…í‚¹ ë³´ì•ˆí”„ë¡œê·¸ëž¨
